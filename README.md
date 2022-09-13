@@ -19,4 +19,5 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arfag&theme=vue-dark&show_icons=true&layout=compact)](https://github.com/arfag/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username={名前})](https://github.com/arfag/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=arfag)](https://github.com/ryo-ma/github-profile-trophy)
+

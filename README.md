@@ -18,7 +18,3 @@ Here are some ideas to get you started:
 [![arfag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arfag&theme=vue-dark&show_icons=true)](https://github.com/arfag/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arfag&theme=vue-dark&show_icons=true&layout=compact)](https://github.com/arfag/github-readme-stats)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arfag)](https://github.com/anuraghazra/github-readme-stats)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arfag&count_private=true)
